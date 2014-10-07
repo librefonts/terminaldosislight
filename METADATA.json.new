@@ -1,0 +1,24 @@
+{
+  "name": "Terminal Dosis Light",
+  "designer": "multiple designers",
+  "license": "OFL",
+  "visibility": "Internal",
+  "category": "Sans Serif",
+  "size": 52544,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 300,
+      "filename": "TerminalDosis-Light.ttf",
+      "postScriptName": "TerminalDosis-Light",
+      "fullName": "Terminal Dosis Light",
+      "copyright": "Copyright (c) 2011 by EdgarTolentino, PabloImpallari, IginoMarini. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-30"
+}

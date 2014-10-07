@@ -1,0 +1,42 @@
+Fonts
+  Font:
+    Common name: Terminal Dosis
+    Sub family: Light
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by EdgarTolentino, PabloImpallari, IginoMarini. All rights reserved.
+    License: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.005
+    Vendor: EdgarTolentino, PabloImpallari, IginoMarini
+    Vendor url: www.impallari.com
+    Designer: EdgarTolentino, PabloImpallari, IginoMarini
+    Designer url: www.impallari.com
+    Glyph count: 342
+    Character count: 331
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 13
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
